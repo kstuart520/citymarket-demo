@@ -284,9 +284,11 @@
 .crew-hero .placeholder {
   width: 100%;
   aspect-ratio: 16 / 9;
+  min-height: 420px;
 }
 .crew-hero .placeholder.img-loaded {
-  background-position: center top !important;
+  background-position: center 20% !important;
+  background-size: cover !important;
 }
 .crew-hero-caption {
   text-align: center;

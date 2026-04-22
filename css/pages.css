@@ -285,6 +285,7 @@
   width: 100%;
   aspect-ratio: 16 / 9;
   min-height: 420px;
+  border: 8px solid red !important;
 }
 .crew-hero .placeholder.img-loaded {
   background-position: center 5% !important;

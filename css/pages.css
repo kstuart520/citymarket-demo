@@ -283,7 +283,10 @@
 }
 .crew-hero .placeholder {
   width: 100%;
-  aspect-ratio: 16 / 7;
+  aspect-ratio: 16 / 8;
+}
+.crew-hero .placeholder.img-loaded {
+  background-position: center top !important;
 }
 .crew-hero-caption {
   text-align: center;
